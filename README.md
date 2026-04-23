@@ -49,8 +49,5 @@ The adversarial training process enables the model to capture underlying data di
 # Clone the repository
 git clone https://github.com/aparnaswaminath/adpgan-project.git
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run the notebook
 jupyter notebook 
